@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+sqlalchemy
+mysqlclient
+findspark
+pyspark
+graphviz
+matplotlib
+xgboost
+seaborn
